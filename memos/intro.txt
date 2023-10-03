@@ -1,0 +1,15 @@
+-----------------------------------
+
+첫번쨰 shape를 그리는 예제
+html쪽에서는 canavas 태그만 사용
+javascript에서 해당 요소에 접근
+
+-----------------------------------
+
+get context from dom
+by using context, we can draw shape
+
+
+const context = canvas.getContext("2d");
+
+-----------------------------------
